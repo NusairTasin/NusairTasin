@@ -1,4 +1,4 @@
-<img align="center" alt="nusairtasin" width="400" height="200" src="https://ibb.co/Y8wjVH5">
+<a href="https://ibb.co/Y8wjVH5"><img src="https://i.ibb.co/82t8Q1y/A5462-CC2-820-F-4709-B703-85-B2-BAC1096-B.jpg" alt="A5462-CC2-820-F-4709-B703-85-B2-BAC1096-B" border="0"></a>
 <h1 align="center">Hi 👋, I'm Nusair Tasin</h1>
 <h3 align="center">A passionate C++ programmer from Bangladesh 🇧🇩</h3>
 
