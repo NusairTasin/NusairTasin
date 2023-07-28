@@ -1,3 +1,4 @@
+<img align="center" alt="nusairtasin" width="400" height="200" src="https://ibb.co/Y8wjVH5">
 <h1 align="center">Hi 👋, I'm Nusair Tasin</h1>
 <h3 align="center">A passionate C++ programmer from Bangladesh 🇧🇩</h3>
 
