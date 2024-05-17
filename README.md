@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nusair Tasin</h1>
+<h3 align="center">A</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusairtasin&label=Profile%20views&color=141414&style=flat-square" alt="nusairtasin" /> </p>
 
@@ -19,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusairtasin&show_icons=true&theme=onedark&locale=en&layout=compact" alt="nusairtasin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusairtasin&show_icons=true&theme=onedark&locale=en" alt="nusairtasin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusairtasin&theme=highcontrast" alt="nusairtasin" /></p>
