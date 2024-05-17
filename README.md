@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nusair Tasin</h1>
-<h3 align="center">A</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusairtasin&label=Profile%20views&color=141414&style=flat-square" alt="nusairtasin" /> </p>
 
